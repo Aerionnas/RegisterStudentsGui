@@ -1,0 +1,1 @@
+This is a simple gui that I create that registers students into a school. It utilizes Object Oriented Programming.
