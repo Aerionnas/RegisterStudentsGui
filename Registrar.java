@@ -14,7 +14,6 @@ import javax.swing.JPanel;
 // import javax.swing.UIManager;
 // import java.util.ArrayList;
 // import java.util.List
-;
 
 public class Registrar extends JPanel {
 
